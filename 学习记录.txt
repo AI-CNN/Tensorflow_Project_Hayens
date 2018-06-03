@@ -1,0 +1,28 @@
+
+
+20180420:
+莫凡视频
+python语法；
+tensorflow工程：mnist cira10
+
+
+
+https://wenku.baidu.com/view/e78c45dece2f0066f5332291.html
+
+自然涨停:=C>=ZTPRICE(REF(C,1),0.1)AND C=H AND H>L AND C>0
+昨天大跌:=REF(C,1)/REF(C,2)<0.96;
+选股1:=(自然涨停 AND 昨天大跌);
+见龙在田:IF(COUNT(选股1，3)>0,1,8,DRAWNULL),NODRAW;
+
+
+李航的统计学习方法+吴恩达的CS229 + Stanford CS231n入门，然后台湾大学李宏毅的课配合读paper（虽然讲的不难，但都是很新的方法）。
+像什么tensorflow，caffe，pytorch之类的，
+
+
+童鞋你好如需文章中提及的机器学习资料，请通过下方链接及密码获取：链接: https://pan.baidu.com/s/1pKIxYND ,
+密码: 89x7。
+
+1,阳光有深度知识面广；
+2.专注力强；
+3.爱好运动，多参加体育运动；
+4.开阔视野。
